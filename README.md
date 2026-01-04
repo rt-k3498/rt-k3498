@@ -1,111 +1,115 @@
-# 👋 Hi, I'm Arty
+<!-- Animated Header -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Arty.;Software+Engineer.;Full-Stack+%7C+ML+%7C+Systems+Thinker."
+    alt="Typing SVG"
+  />
+</p>
 
-I'm a software engineer who enjoys building systems that actually work under pressure — from clean front-ends to resilient back-ends, from infrastructure to machine learning experiments.
-
-I care about fundamentals, clarity, and shipping things that don’t collapse the moment real users show up.
-
----
-
-## 🧠 What I Work On
-
-- Full-stack web applications with modern frontend and backend architectures  
-- Scalable APIs and distributed systems  
-- Machine learning pipelines, experiments, and model evaluation  
-- Cloud infrastructure, CI/CD, and DevOps automation  
-- Algorithms, data structures, and performance-critical code  
-
-I like projects where design decisions matter and trade-offs are unavoidable.
+<p align="center">
+  <em>Building reliable systems. Learning fundamentals deeply. Shipping with intent.</em>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+<!-- Subtle Divider Animation -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284126-2c6b1c68-b91f-4f0a-9b47-2c7c3c7a2c2a.gif" width="500"/>
+</p>
 
-**Languages**
-- JavaScript / TypeScript
-- Python
-- SQL
-- (Add others you actively use)
+## 🧠 About Me
 
-**Frontend**
-- React
-- Modern CSS (Flexbox, Grid)
-- Component-driven UI design
+I'm a software engineer focused on designing systems that remain understandable as they grow.  
+I work across the stack, from UI to infrastructure, with a growing emphasis on machine learning and statistical rigor.
 
-**Backend**
-- Node.js
-- RESTful APIs
-- Authentication & authorization
-- Database design (relational & NoSQL)
-
-**Machine Learning**
-- Data preprocessing & feature engineering
-- Model training and evaluation
-- Statistics & probability foundations
-- Experiment tracking and iteration
-
-**Infrastructure & DevOps**
-- Docker
-- Cloud platforms (AWS / GCP / Azure — specify what you actually use)
-- CI/CD pipelines
-- Monitoring & reliability basics
+I value:
+- correctness over cleverness  
+- fundamentals over frameworks  
+- systems that fail *gracefully*  
 
 ---
 
-## 📌 Projects
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nodejs,postgres,docker,aws,git&theme=dark" />
+</p>
+
+**Languages**  
+JavaScript / TypeScript · Python · SQL  
+
+**Frontend**  
+React · Component-driven UI · Modern CSS  
+
+**Backend**  
+Node.js · REST APIs · Auth · Data modeling  
+
+**Machine Learning**  
+Data preprocessing · Model evaluation · Statistics & probability  
+
+**DevOps**  
+Docker · CI/CD · Cloud infrastructure  
+
+---
+
+## 🚀 Projects
 
 ### 🔹 Project Name
-**Description:**  
-One or two sentences explaining *what problem this solves* and *why it’s interesting*.
+**What it does:**  
+A concise description of the problem and why it matters.
 
-**Tech Stack:**  
-Python, React, PostgreSQL, Docker (example)
+**Why it’s interesting:**  
+One concrete technical challenge or design decision.
 
-**Highlights:**
-- Key design decision or challenge
-- Performance, scale, or architectural insight
-- What you learned building it
+**Tech:**  
+Python · React · PostgreSQL · Docker  
 
-[Repository Link]
+🔗 **Repo:** https://github.com/your-username/project
 
 ---
 
 ### 🔹 Project Name
-**Description:**  
-Concise, concrete, no fluff.
+**What it does:**  
+Describe the system, not the buzzwords.
 
-**Tech Stack:**  
-List only what matters.
+**Why it’s interesting:**  
+Talk about trade-offs, constraints, or scale.
 
-**Highlights:**
-- Something non-trivial you implemented
-- Trade-offs you considered
-- Real constraints you handled
+**Tech:**  
+TypeScript · Node.js · AWS  
 
-[Repository Link]
+🔗 **Repo:** https://github.com/your-username/project
 
 ---
 
-*(Add 2–4 strong projects. Quality beats quantity.)*
+## 📈 Engineering Philosophy
+
+> Simple systems survive complexity better than clever ones.
+
+- Design before optimizing  
+- Measure before guessing  
+- Learn the theory, then bend it  
+
+Currently deepening my understanding of **machine learning, statistics, and systems design**.
 
 ---
 
-## 📈 How I Think About Engineering
+## 🌐 Connect
 
-- Prefer simple systems that are easy to reason about
-- Measure before optimizing
-- Care about correctness before cleverness
-- Learn fundamentals deeply, then apply them broadly
-
-I’m especially interested in the intersection of **software engineering, machine learning, and systems design**.
-
----
-
-## 📬 Get in Touch
-
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
-- Email: your@email.com
+<p align="center">
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-> “Make it work, make it right, make it fast — in that order.”
+<p align="center">
+  <sub>README powered by Markdown, SVGs, and a healthy disrespect for boring profiles.</sub>
+</p>
