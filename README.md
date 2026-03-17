@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aatharva.;Software+Engineer.;Full-Stack+%7C+AI+%7C+Systems."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Arty.;Software+Engineer.;Full-Stack+%7C+AI+%7C+Systems."
     alt="Typing SVG"
   />
 </p>
