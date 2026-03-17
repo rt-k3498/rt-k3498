@@ -19,17 +19,17 @@
 
 ## 🧠 About Me
 
-I'm a software engineer based in Copenhagen studying engineering at the **Technical University of Denmark (DTU)**.
+I'm a software engineer studying engineering at the **Technical University of Denmark (DTU)**.
 
-My work focuses on **building scalable systems across frontend, backend, and cloud infrastructure**, while increasingly diving into **machine learning and distributed learning systems**.
+My work focuses on **building scalable systems across frontend, backend, and cloud infrastructure**, while increasingly diving into **machine learning, AI engineering and distributed learning systems**.
 
-I’ve worked professionally as a **Software Engineer at Digital Fireworks**, contributing to production mobile and backend systems.
+I’ve worked professionally as a **Software Engineer at Digital Fireworks**, contributing to production mobile, frontend and backend systems.
 
 Currently I am:
 
 - researching **security attacks on Personalized Federated Learning (Per-FedAvg)**  
 - building **cloud-native SaaS systems**  
-- deepening my understanding of **machine learning, statistics, and systems design**
+- deepening my understanding of **machine learning, AI, statistics, and systems design**
 
 I value:
 
@@ -49,19 +49,19 @@ I value:
 Python · TypeScript · JavaScript · SQL · Java
 
 **Frontend**  
-React · React Native · Next.js · Modern CSS · Component Architecture
+React · React Native · Next.js · Modern CSS · HTML · Component Architecture 
 
 **Backend**  
-Node.js · Express · Django · Flask · REST APIs · Domain-driven services
+Node.js · Express · Django · Flask · APIs · Domain-driven services
 
 **Cloud & DevOps**  
 AWS Lambda · AWS App Runner · Docker · Serverless Architecture · CI/CD
 
 **Databases**  
-PostgreSQL · Supabase · Relational Data Modeling
+PostgreSQL · Supabase · Relational Data Modeling · document database · key-value database
 
 **Machine Learning**  
-Pandas · NumPy · PyTorch · Scikit-Learn · Data preprocessing
+Pandas · NumPy · tensorflow · Scikit-Learn · Data preprocessing
 
 **Engineering**  
 Algorithms · Data Structures · Distributed systems · Agile development
