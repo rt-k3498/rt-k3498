@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Arty.;Software+Engineer.;Full-Stack+%7C+ML+%7C+Systems+Thinker."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aatharva.;Software+Engineer.;Full-Stack+%7C+AI+%7C+Systems."
     alt="Typing SVG"
   />
 </p>
@@ -19,10 +19,20 @@
 
 ## 🧠 About Me
 
-I'm a software engineer focused on designing systems that remain understandable as they grow.  
-I work across the stack, from UI to infrastructure, with a growing emphasis on machine learning and statistical rigor.
+I'm a software engineer based in Copenhagen studying engineering at the **Technical University of Denmark (DTU)**.
+
+My work focuses on **building scalable systems across frontend, backend, and cloud infrastructure**, while increasingly diving into **machine learning and distributed learning systems**.
+
+I’ve worked professionally as a **Software Engineer at Digital Fireworks**, contributing to production mobile and backend systems.
+
+Currently I am:
+
+- researching **security attacks on Personalized Federated Learning (Per-FedAvg)**  
+- building **cloud-native SaaS systems**  
+- deepening my understanding of **machine learning, statistics, and systems design**
 
 I value:
+
 - correctness over cleverness  
 - fundamentals over frameworks  
 - systems that fail *gracefully*  
@@ -36,49 +46,72 @@ I value:
 </p>
 
 **Languages**  
-JavaScript / TypeScript · Python · SQL  
+Python · TypeScript · JavaScript · SQL · Java
 
 **Frontend**  
-React · Component-driven UI · Modern CSS  
+React · React Native · Next.js · Modern CSS · Component Architecture
 
 **Backend**  
-Node.js · REST APIs · Auth · Data modeling  
+Node.js · Express · Django · Flask · REST APIs · Domain-driven services
+
+**Cloud & DevOps**  
+AWS Lambda · AWS App Runner · Docker · Serverless Architecture · CI/CD
+
+**Databases**  
+PostgreSQL · Supabase · Relational Data Modeling
 
 **Machine Learning**  
-Data preprocessing · Model evaluation · Statistics & probability  
+Pandas · NumPy · PyTorch · Scikit-Learn · Data preprocessing
 
-**DevOps**  
-Docker · CI/CD · Cloud infrastructure  
+**Engineering**  
+Algorithms · Data Structures · Distributed systems · Agile development
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 Project Name
+### 🔹 PayBuddie — Cloud-Native Freelance SaaS
+
 **What it does:**  
-A concise description of the problem and why it matters.
+A SaaS platform that helps freelancers manage contracts, tasks, hours, and invoices in one system.
 
 **Why it’s interesting:**  
-One concrete technical challenge or design decision.
+Designed and implemented **end-to-end architecture** including frontend, backend services, database schema, and deployment infrastructure.
+
+The system uses **serverless microservices and a PostgreSQL data model** to support scalable administrative workflows.
 
 **Tech:**  
-Python · React · PostgreSQL · Docker  
+TypeScript · Next.js · React · AWS Lambda · Supabase · PostgreSQL · Docker
 
-🔗 **Repo:** https://github.com/your-username/project
+🔗 **Repo:** https://github.com/rt-k3498
 
 ---
 
-### 🔹 Project Name
+### 🔹 Federated Learning Security Research
+
 **What it does:**  
-Describe the system, not the buzzwords.
+Research project analyzing **privacy attacks against Personalized Federated Learning algorithms**, focusing on **Per-FedAvg**.
 
 **Why it’s interesting:**  
-Talk about trade-offs, constraints, or scale.
+Investigates whether personalization techniques in federated learning **increase or mitigate vulnerability to gradient-based inference attacks** such as iDLG.
+
+Includes algorithmic analysis, threat modeling, and experimental evaluation.
 
 **Tech:**  
-TypeScript · Node.js · AWS  
+Python · PyTorch · Federated Learning · ML Security
 
-🔗 **Repo:** https://github.com/your-username/project
+---
+
+### 🔹 Cloud-Native Systems Experiments
+
+**What it does:**  
+A collection of experiments exploring **serverless architectures, distributed systems patterns, and backend service design**.
+
+**Why it’s interesting:**  
+Focuses on understanding infrastructure trade-offs between **microservices, serverless execution, and monolithic architectures**.
+
+**Tech:**  
+Node.js · AWS · Docker · PostgreSQL
 
 ---
 
@@ -86,24 +119,33 @@ TypeScript · Node.js · AWS
 
 > Simple systems survive complexity better than clever ones.
 
+I care deeply about **system clarity**.
+
+That means:
+
 - Design before optimizing  
 - Measure before guessing  
-- Learn the theory, then bend it  
+- Understand the underlying theory  
 
-Currently deepening my understanding of **machine learning, statistics, and systems design**.
+Lately that curiosity has pulled me deeper into:
+
+- machine learning systems
+- AI engineering 
+- federated learning  
+- distributed architectures  
 
 ---
 
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/rt-k3498">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/aatharva-kawade-89531a316">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:aatharva.kawade@gmail.com">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail" />
   </a>
 </p>
@@ -111,5 +153,5 @@ Currently deepening my understanding of **machine learning, statistics, and syst
 ---
 
 <p align="center">
-  <sub>README powered by Markdown, SVGs, and a healthy disrespect for boring profiles.</sub>
+  <sub>README powered by Markdown, SVGs, and curiosity about how systems actually work.</sub>
 </p>
