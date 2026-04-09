@@ -12,11 +12,6 @@
 
 ---
 
-<!-- Subtle Divider Animation -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284126-2c6b1c68-b91f-4f0a-9b47-2c7c3c7a2c2a.gif" width="500"/>
-</p>
-
 ## 🧠 About Me
 
 I'm a software engineer studying engineering at the **Technical University of Denmark (DTU)**.
